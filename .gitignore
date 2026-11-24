@@ -1,0 +1,9 @@
+# 原始影片（共約 630 MB）不上傳；網頁使用 videos/ 內壓縮過的網頁版影片
+Antigravity/
+Claude/
+Codex/
+
+# 本機開發設定
+.claude/
+.DS_Store
+Thumbs.db
